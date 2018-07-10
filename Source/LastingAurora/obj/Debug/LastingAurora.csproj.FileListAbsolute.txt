@@ -1,0 +1,4 @@
+E:\Documents\My RimWorld Mods\V1.0\LastingAuroraThought\Assemblies\LastingAurora.dll
+E:\Documents\My RimWorld Mods\V1.0\LastingAuroraThought\Source\LastingAurora\obj\Debug\LastingAurora.csprojAssemblyReference.cache
+E:\Documents\My RimWorld Mods\V1.0\LastingAuroraThought\Source\LastingAurora\obj\Debug\LastingAurora.csproj.CoreCompileInputs.cache
+E:\Documents\My RimWorld Mods\V1.0\LastingAuroraThought\Source\LastingAurora\obj\Debug\LastingAurora.dll
