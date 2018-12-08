@@ -1,6 +1,6 @@
 <Manifest>
     <identifier>MemorableAuroras</identifier>
     <version>1.0.2</version>
-    <manifestUri>https://rawgit.com/XeoNovaDan/MemorableAuroras/master/About/Manifest.xml</manifestUri>
+    <manifestUri>https://cdn.jsdelivr.net/gh/XeoNovaDan/MemorableAuroras/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/XeoNovaDan/MemorableAuroras/releases</downloadUri>
 </Manifest>
