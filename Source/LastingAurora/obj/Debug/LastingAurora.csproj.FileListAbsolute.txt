@@ -7,3 +7,7 @@ E:\Documents\My RimWorld Mods\B19\MemorableAuroras\Source\LastingAurora\obj\Debu
 E:\Documents\My RimWorld Mods\B19\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.csproj.CoreCompileInputs.cache
 E:\Documents\My RimWorld Mods\B19\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.csproj.CopyComplete
 E:\Documents\My RimWorld Mods\B19\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.dll
+D:\Documents\GitHub\MemorableAuroras\1.1\Assemblies\LastingAurora.dll
+D:\Documents\GitHub\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.csprojAssemblyReference.cache
+D:\Documents\GitHub\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.csproj.CopyComplete
+D:\Documents\GitHub\MemorableAuroras\Source\LastingAurora\obj\Debug\LastingAurora.dll

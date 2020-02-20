@@ -5,11 +5,11 @@ using System.Text;
 using Verse;
 using RimWorld;
 
-namespace LastingAurora
+namespace MemorableAuroras
 {
 
     [DefOf]
-    public static class LA_ThoughtDefOf
+    public static class MA_ThoughtDefOf
     {
 
         public static ThoughtDef ObservedAurora;

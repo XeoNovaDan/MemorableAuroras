@@ -1,7 +1,7 @@
 <Patch>
 
     <Operation Class="PatchOperationReplace">
-        <xpath>*/ThoughtDef[defName="Aurora"]/stages/li/baseMoodEffect</xpath>
+        <xpath>/Defs/ThoughtDef[defName="Aurora"]/stages/li/baseMoodEffect</xpath>
         <value>
             <baseMoodEffect>9</baseMoodEffect>
         </value>
