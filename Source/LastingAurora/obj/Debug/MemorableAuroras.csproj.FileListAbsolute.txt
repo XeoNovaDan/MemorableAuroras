@@ -1,3 +1,0 @@
-D:\Documents\GitHub\MemorableAuroras\1.1\Assemblies\MemorableAuroras.dll
-D:\Documents\GitHub\MemorableAuroras\Source\LastingAurora\obj\Debug\MemorableAuroras.csproj.CopyComplete
-D:\Documents\GitHub\MemorableAuroras\Source\LastingAurora\obj\Debug\MemorableAuroras.dll
